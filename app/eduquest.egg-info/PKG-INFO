@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+Metadata-Version: 2.2
+Name: eduquest
+Version: 1.0.0
+Requires-Python: >=3.8
+Requires-Dist: flask==2.2.5
+Requires-Dist: flask-cors==4.0.0
+Requires-Dist: werkzeug==2.2.3
+Requires-Dist: google-generativeai==0.3.2
+Requires-Dist: python-dotenv==1.0.0
+Dynamic: requires-dist
+Dynamic: requires-python
+=======
+Metadata-Version: 2.2
+Name: eduquest
+Version: 1.0.0
+Requires-Python: >=3.8
+Requires-Dist: flask==2.2.5
+Requires-Dist: flask-cors==4.0.0
+Requires-Dist: werkzeug==2.2.3
+Requires-Dist: google-generativeai==0.3.2
+Requires-Dist: python-dotenv==1.0.0
+Dynamic: requires-dist
+Dynamic: requires-python
+>>>>>>> f41f548 (frontend)

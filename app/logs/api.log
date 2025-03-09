@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+2025-03-09 01:18:49,220 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:21:39,257 INFO: API startup [in c:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:23:19,028 INFO: API startup [in c:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:26:17,288 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:26:17,316 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:26:17,316 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+=======
+2025-03-09 01:18:49,220 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:21:39,257 INFO: API startup [in c:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:23:19,028 INFO: API startup [in c:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:26:17,288 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:26:17,316 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+2025-03-09 01:26:17,316 INFO: API startup [in C:\Users\sohom\OneDrive\Desktop\Eduquest\app.py:60]
+>>>>>>> f41f548 (frontend)
